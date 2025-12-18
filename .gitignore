@@ -211,3 +211,15 @@ biomedical_databases/results/finding_tfbs_in_variants_H13/fimo.gff
 biomedical_databases/results/finding_tfbs_in_variants_H13/fimo.html
 biomedical_databases/results/finding_tfbs_in_variants_H13/fimo.tsv
 biomedical_databases/results/finding_tfbs_in_variants_H13/fimo.xml
+ML_perspectives/resources/02_interpretation/tfmodisco_report/
+ML_perspectives/resources/02_interpretation/tfmodisco_report_all/
+ML_perspectives/resources/02_interpretation/hypothetical_contribution_scores.npz
+ML_perspectives/resources/02_interpretation/hypothetical_contribution_scores.npz.h5
+ML_perspectives/resources/02_interpretation/scores_for_modisco.npz
+ML_perspectives/resources/02_interpretation/Sequences.npz
+ML_perspectives/motifs_all.html
+.gitignore
+ML_perspectives/motifs.html
+biomedical_databases/resources/clinvar_variants_fimo_input.fa
+biomedical_databases/resources/hocomoco_v13/H13CORE_meme_format.meme
+biomedical_databases/memesuite.sif
